@@ -1,0 +1,201 @@
+local	global	opener	closer	src_words	flag
+1	801	subject	quip	51
+2	802	time_place	action	58
+3	803	subject	rhetorical_question	53
+4	804	time_place	action	55
+5	805	subject	cliffhanger	49
+6	806	time_place	quip	50
+7	807	participial	cliffhanger	50
+8	808	subject	quip	46
+9	809	time_place	action	45
+10	810	subject	cliffhanger	56
+11	811	time_place	action	48
+12	812	subject	cliffhanger	18	short
+13	813	time_place	quip	45
+14	814	subject	action	60
+15	815	time_place	cliffhanger	59
+16	816	subject	punchline	59
+17	817	question_exclaim	cliffhanger	48
+18	818	subject	rhetorical_question	61
+19	819	time_place	cliffhanger	58
+20	820	subject	quip	46
+21	821	time_place	rhetorical_question	44	short
+22	822	subject	cliffhanger	47
+23	823	question_exclaim	punchline	54
+24	824	subject	cliffhanger	54
+25	825	question_exclaim	emotion	46
+26	826	subject	rhetorical_question	54
+27	827	participial	punchline	57
+28	828	time_place	emotion	52
+29	829	subject	quip	38	short
+30	830	time_place	cliffhanger	44	short
+31	831	subject	punchline	49
+32	832	participial	quip	56
+33	833	time_place	action	55
+34	834	subject	quip	47
+35	835	time_place	action	53
+36	836	subject	quip	26	short
+37	837	participial	action	50
+38	838	time_place	quip	61
+39	839	subject	punchline	53
+40	840	time_place	action	36	short
+41	841	subject	quip	48
+42	842	time_place	cliffhanger	50
+43	843	subject	quip	59
+44	844	time_place	cliffhanger	44	short
+45	845	subject	punchline	45
+46	846	time_place	action	29	short
+47	847	subject	punchline	51
+48	848	time_place	action	39	short
+49	849	subject	rhetorical_question	40	short
+50	850	time_place	action	51
+51	851	subject	punchline	39	short
+52	852	time_place	action	55
+53	853	subject	emotion	54
+54	854	time_place	cliffhanger	55
+55	855	subject	punchline	44	short
+56	856	time_place	emotion	61
+57	857	subject	action	53
+58	858	question_exclaim	emotion	48
+59	859	subject	action	45
+60	860	time_place	emotion	41	short
+61	861	participial	rhetorical_question	49
+62	862	subject	emotion	48
+63	863	time_place	punchline	56
+64	864	subject	emotion	48
+65	865	time_place	punchline	53
+66	866	participial	action	52
+67	867	subject	quip	48
+68	868	time_place	emotion	45
+69	869	subject	rhetorical_question	40	short
+70	870	time_place	cliffhanger	46
+71	871	subject	quip	53
+72	872	time_place	cliffhanger	50
+73	873	subject	rhetorical_question	53
+74	874	time_place	cliffhanger	50
+75	875	subject	rhetorical_question	56
+76	876	time_place	cliffhanger	26	short
+77	877	subject	quip	58
+78	878	participial	cliffhanger	51
+79	879	question_exclaim	action	49
+80	880	subject	punchline	53
+81	881	time_place	action	46
+82	882	subject	rhetorical_question	54
+83	883	question_exclaim	punchline	53
+84	884	subject	emotion	41	short
+85	885	time_place	rhetorical_question	41	short
+86	886	subject	emotion	44	short
+87	887	participial	cliffhanger	52
+88	888	time_place	punchline	59
+89	889	subject	action	41	short
+90	890	participial	emotion	53
+91	891	question_exclaim	punchline	58
+92	892	subject	cliffhanger	44	short
+93	893	time_place	quip	52
+94	894	subject	emotion	41	short
+95	895	time_place	cliffhanger	50
+96	896	subject	emotion	38	short
+97	897	question_exclaim	action	52
+98	898	subject	emotion	50
+99	899	time_place	cliffhanger	52
+100	900	subject	emotion	34	short
+101	901	time_place	cliffhanger	50
+102	902	subject	emotion	54
+103	903	question_exclaim	action	54
+104	904	subject	quip	47
+105	905	time_place	action	54
+106	906	subject	quip	43	short
+107	907	question_exclaim	punchline	51
+108	908	participial	emotion	43	short
+109	909	subject	cliffhanger	30	short
+110	910	time_place	emotion	51
+111	911	subject	rhetorical_question	54
+112	912	time_place	quip	56
+113	913	subject	rhetorical_question	52
+114	914	participial	cliffhanger	53
+115	915	time_place	punchline	48
+116	916	subject	cliffhanger	45
+117	917	time_place	quip	43	short
+118	918	subject	emotion	56
+119	919	time_place	quip	50
+120	920	participial	punchline	62
+121	921	subject	rhetorical_question	47
+122	922	subject	punchline	42	short
+123	923	subject	quip	43	short
+124	924	subject	cliffhanger	32	short
+125	925	subject	punchline	59
+126	926	subject	quip	56
+127	927	subject	rhetorical_question	57
+128	928	subject	emotion	54
+129	929	subject	rhetorical_question	52
+130	930	subject	quip	52
+131	931	subject	action	47
+132	932	subject	punchline	46
+133	933	subject	action	54
+134	934	participial	emotion	41	short
+135	935	subject	action	52
+136	936	subject	emotion	45
+137	937	subject	action	59
+138	938	subject	rhetorical_question	51
+139	939	subject	emotion	43	short
+140	940	subject	quip	58
+141	941	subject	cliffhanger	54
+142	942	subject	quip	57
+143	943	subject	emotion	48
+144	944	subject	quip	47
+145	945	participial	punchline	57
+146	946	subject	cliffhanger	46
+147	947	subject	quip	47
+148	948	subject	action	47
+149	949	subject	quip	56
+150	950	subject	emotion	35	short
+151	951	subject	quip	45
+152	952	subject	punchline	62
+153	953	subject	emotion	52
+154	954	subject	punchline	35	short
+155	955	subject	quip	38	short
+156	956	subject	emotion	57
+157	957	subject	quip	53
+158	958	subject	emotion	42	short
+159	959	subject	action	35	short
+160	960	subject	emotion	28	short
+161	961	subject	cliffhanger	54
+162	962	subject	emotion	48
+163	963	subject	punchline	62
+164	964	subject	emotion	53
+165	965	subject	action	27	short
+166	966	participial	emotion	51
+167	967	subject	rhetorical_question	26	short
+168	968	subject	emotion	54
+169	969	participial	cliffhanger	61
+170	970	subject	punchline	47
+171	971	subject	cliffhanger	61
+172	972	subject	quip	43	short
+173	973	subject	cliffhanger	38	short
+174	974	participial	action	62
+175	975	subject	quip	62
+176	976	subject	rhetorical_question	38	short
+177	977	subject	quip	51
+178	978	subject	action	56
+179	979	subject	quip	46
+180	980	participial	cliffhanger	58
+181	981	subject	quip	29	short
+182	982	subject	punchline	46
+183	983	subject	action	48
+184	984	subject	rhetorical_question	43	short
+185	985	participial	action	54
+186	986	subject	quip	53
+187	987	subject	action	55
+188	988	subject	punchline	40	short
+189	989	participial	action	49
+190	990	subject	emotion	52
+191	991	subject	action	43	short
+192	992	subject	quip	43	short
+193	993	subject	punchline	51
+194	994	subject	action	41	short
+195	995	participial	punchline	21	short
+196	996	subject	quip	46
+197	997	subject	emotion	52
+198	998	subject	action	40	short
+199	999	participial	action	60
+200	1000	subject	action	51
