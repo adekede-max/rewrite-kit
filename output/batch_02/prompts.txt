@@ -1,0 +1,1615 @@
+# CHARACTER & FORM REGISTRY (anchors are also appended to every prompt)
+# STYLE: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+# Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build
+# Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+# Huawa (Fire Elemental Spirit): tiny, cute shape, red flames curling around her whole body
+# Huawa (Fire Marshall God): tall, cold and bloodthirsty face, blood red flames, red armor sealed over her, holding a bloodthirsty demon spear
+# Dark Moon (Human Form): slender, pale skin, dark hair, wearing black assassin gear
+# Mory (Human Form): plain features, worn commoner clothes
+# Lee Kio (Human Form): sharp features, agile build, carrying a flowing wind bow
+# Little Blue (Whale Form): massive whale, blue skin, calm demeanor
+# Harui (Human Form): soft features, gentle demeanor, carrying a staff
+# Wang Mock (Human Form): small fry, thin build, nervous expression
+# Azure main wolf (Beast Form): thick limbs, azure fur, blood red eyes, bared fangs
+# Purple moon demon wolf (Beast Form): giant purple wolf, pale gold eyes, dark crescent blooming on its forehead, spinning shell of green wind vortex
+# No Cena (Orc Form): goldenhaired, built like a lion tribe fighter, leather armor
+
+[0201] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0202] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0203] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0204] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0205] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0206] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0207] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0208] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0209] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0210] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0211] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0212] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0213] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0214] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0215] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0216] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0217] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0218] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0219] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0220] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0221] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0222] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0223] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0224] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0225] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0226] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0227] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0228] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0229] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0230] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0231] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0232] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0233] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0234] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0235] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0236] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0237] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0238] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0239] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0240] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0241] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0242] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0243] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0244] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0245] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0246] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0247] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0248] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0249] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0250] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0251] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0252] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0253] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0254] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0255] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0256] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0257] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0258] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0259] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0260] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0261] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0262] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0263] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0264] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0265] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0266] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0267] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0268] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0269] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0270] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0271] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0272] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0273] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0274] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0275] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0276] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0277] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0278] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0279] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0280] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0281] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0282] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0283] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0284] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0285] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0286] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0287] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0288] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0289] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0290] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0291] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0292] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0293] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0294] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0295] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0296] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0297] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0298] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0299] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0300] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0301] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0302] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0303] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0304] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0305] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0306] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0307] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0308] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0309] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0310] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0311] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0312] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0313] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0314] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0315] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0316] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0317] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0318] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0319] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0320] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0321] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0322] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0323] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0324] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0325] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0326] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0327] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0328] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0329] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0330] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0331] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0332] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0333] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0334] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0335] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0336] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0337] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0338] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0339] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0340] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0341] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0342] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0343] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0344] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0345] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0346] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0347] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0348] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0349] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0350] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0351] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0352] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0353] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0354] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0355] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0356] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0357] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0358] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0359] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0360] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0361] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0362] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0363] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0364] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0365] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0366] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0367] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0368] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0369] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0370] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0371] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0372] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0373] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0374] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0375] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0376] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0377] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0378] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0379] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0380] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0381] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0382] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0383] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0384] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0385] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0386] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0387] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0388] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0389] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0390] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0391] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0392] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0393] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0394] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0395] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0396] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0397] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0398] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0399] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe
+
+[0400] 4-panel symmetric grid (2x2),
+Panel 1: Kael (Human Form) standing in the shadows
+Panel 2: Windsor (Human Form) casting a glowing spell
+Panel 3: Kael (Human Form) rushing forward quickly
+Panel 4: Windsor (Human Form) observing the area
+Style: Korean manhwa style, dark fantasy, clean linework, cel-shaded rendering, dramatic cinematic lighting, muted teal and crimson palette.
+Character anchors: Kael (Human Form): short black hair, sharp grey eyes, worn leather coat, lean build | Windsor (Human Form): small white wooden staff, long hair, gentle face, white robe

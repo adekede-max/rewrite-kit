@@ -1,0 +1,201 @@
+local	global	opener	closer	src_words	flag
+1	1801	subject	punchline	43	short
+2	1802	time_place	quip	48
+3	1803	question_exclaim	emotion	52
+4	1804	subject	quip	55
+5	1805	participial	punchline	26	short
+6	1806	time_place	emotion	42	short
+7	1807	subject	quip	54
+8	1808	time_place	quip	51
+9	1809	subject	rhetorical_question	56
+10	1810	time_place	action	33	short
+11	1811	subject	punchline	43	short
+12	1812	time_place	rhetorical_question	55
+13	1813	participial	punchline	50
+14	1814	subject	quip	59
+15	1815	time_place	rhetorical_question	44	short
+16	1816	subject	cliffhanger	47
+17	1817	question_exclaim	emotion	59
+18	1818	participial	punchline	51
+19	1819	subject	action	40	short
+20	1820	time_place	quip	57
+21	1821	subject	action	39	short
+22	1822	time_place	quip	53
+23	1823	subject	action	53
+24	1824	time_place	cliffhanger	40	short
+25	1825	subject	emotion	51
+26	1826	time_place	cliffhanger	54
+27	1827	subject	action	33	short
+28	1828	time_place	cliffhanger	51
+29	1829	participial	action	62
+30	1830	subject	quip	28	short
+31	1831	time_place	punchline	38	short
+32	1832	subject	cliffhanger	38	short
+33	1833	time_place	punchline	52
+34	1834	subject	rhetorical_question	25	short
+35	1835	time_place	quip	41	short
+36	1836	subject	action	50
+37	1837	time_place	punchline	37	short
+38	1838	participial	action	52
+39	1839	subject	emotion	54
+40	1840	participial	rhetorical_question	52
+41	1841	time_place	quip	55
+42	1842	subject	punchline	56
+43	1843	time_place	emotion	48
+44	1844	subject	punchline	57
+45	1845	time_place	quip	28	short
+46	1846	subject	action	35	short
+47	1847	question_exclaim	punchline	51
+48	1848	subject	action	49
+49	1849	time_place	emotion	55
+50	1850	subject	action	43	short
+51	1851	time_place	rhetorical_question	53
+52	1852	subject	action	48
+53	1853	question_exclaim	rhetorical_question	57
+54	1854	subject	emotion	40	short
+55	1855	time_place	rhetorical_question	41	short
+56	1856	participial	action	51
+57	1857	subject	punchline	42	short
+58	1858	time_place	cliffhanger	23	short
+59	1859	subject	punchline	48
+60	1860	time_place	quip	44	short
+61	1861	subject	cliffhanger	50
+62	1862	time_place	punchline	27	short
+63	1863	subject	emotion	50
+64	1864	time_place	quip	41	short
+65	1865	participial	emotion	54
+66	1866	subject	cliffhanger	48
+67	1867	time_place	punchline	49
+68	1868	subject	cliffhanger	50
+69	1869	time_place	quip	53
+70	1870	subject	cliffhanger	45
+71	1871	time_place	punchline	53
+72	1872	participial	quip	54
+73	1873	subject	cliffhanger	56
+74	1874	time_place	action	50
+75	1875	subject	punchline	55
+76	1876	time_place	action	58
+77	1877	subject	quip	27	short
+78	1878	participial	emotion	38	short
+79	1879	time_place	quip	50
+80	1880	subject	punchline	55
+81	1881	time_place	cliffhanger	50
+82	1882	subject	emotion	56
+83	1883	time_place	quip	45
+84	1884	subject	punchline	49
+85	1885	time_place	emotion	45
+86	1886	subject	punchline	47
+87	1887	question_exclaim	quip	47
+88	1888	subject	action	53
+89	1889	question_exclaim	punchline	58
+90	1890	subject	action	56
+91	1891	time_place	rhetorical_question	59
+92	1892	subject	action	46
+93	1893	participial	quip	57
+94	1894	time_place	emotion	51
+95	1895	subject	cliffhanger	56
+96	1896	time_place	quip	41	short
+97	1897	subject	action	62
+98	1898	time_place	punchline	56
+99	1899	subject	cliffhanger	62
+100	1900	question_exclaim	action	46
+101	1901	subject	quip	56
+102	1902	time_place	emotion	48
+103	1903	subject	quip	51
+104	1904	time_place	emotion	55
+105	1905	subject	quip	44	short
+106	1906	question_exclaim	emotion	48
+107	1907	subject	quip	47
+108	1908	time_place	punchline	52
+109	1909	subject	rhetorical_question	42	short
+110	1910	time_place	cliffhanger	56
+111	1911	subject	emotion	51
+112	1912	question_exclaim	action	40	short
+113	1913	subject	cliffhanger	34	short
+114	1914	time_place	emotion	35	short
+115	1915	subject	quip	46
+116	1916	time_place	emotion	33	short
+117	1917	subject	action	59
+118	1918	question_exclaim	emotion	51
+119	1919	subject	cliffhanger	58
+120	1920	subject	emotion	39	short
+121	1921	subject	punchline	36	short
+122	1922	subject	emotion	45
+123	1923	subject	action	46
+124	1924	subject	emotion	53
+125	1925	subject	cliffhanger	30	short
+126	1926	subject	emotion	46
+127	1927	participial	cliffhanger	44	short
+128	1928	subject	punchline	47
+129	1929	subject	rhetorical_question	51
+130	1930	subject	action	46
+131	1931	subject	rhetorical_question	55
+132	1932	subject	emotion	45
+133	1933	subject	action	47
+134	1934	subject	cliffhanger	55
+135	1935	participial	rhetorical_question	52
+136	1936	subject	action	41	short
+137	1937	subject	rhetorical_question	36	short
+138	1938	subject	cliffhanger	48
+139	1939	subject	emotion	52
+140	1940	subject	quip	56
+141	1941	subject	cliffhanger	50
+142	1942	participial	rhetorical_question	43	short
+143	1943	subject	action	33	short
+144	1944	subject	cliffhanger	50
+145	1945	subject	quip	41	short
+146	1946	participial	action	62
+147	1947	subject	rhetorical_question	43	short
+148	1948	subject	action	44	short
+149	1949	subject	punchline	49
+150	1950	subject	action	36	short
+151	1951	subject	quip	53
+152	1952	subject	action	45
+153	1953	participial	quip	62
+154	1954	subject	cliffhanger	52
+155	1955	subject	quip	36	short
+156	1956	subject	emotion	60
+157	1957	subject	quip	44	short
+158	1958	subject	emotion	58
+159	1959	subject	cliffhanger	59
+160	1960	subject	quip	52
+161	1961	subject	emotion	54
+162	1962	participial	quip	32	short
+163	1963	subject	rhetorical_question	58
+164	1964	subject	cliffhanger	52
+165	1965	participial	action	37	short
+166	1966	subject	cliffhanger	61
+167	1967	subject	emotion	54
+168	1968	subject	rhetorical_question	49
+169	1969	participial	cliffhanger	50
+170	1970	subject	emotion	55
+171	1971	subject	rhetorical_question	44	short
+172	1972	subject	emotion	45
+173	1973	subject	rhetorical_question	36	short
+174	1974	subject	cliffhanger	27	short
+175	1975	subject	quip	47
+176	1976	participial	action	35	short
+177	1977	subject	punchline	48
+178	1978	subject	emotion	57
+179	1979	participial	punchline	47
+180	1980	subject	quip	41	short
+181	1981	subject	cliffhanger	55
+182	1982	participial	quip	45
+183	1983	subject	punchline	47
+184	1984	subject	action	43	short
+185	1985	subject	quip	35	short
+186	1986	subject	cliffhanger	41	short
+187	1987	subject	emotion	24	short
+188	1988	subject	cliffhanger	55
+189	1989	subject	action	44	short
+190	1990	subject	cliffhanger	58
+191	1991	subject	action	43	short
+192	1992	subject	emotion	54
+193	1993	subject	cliffhanger	50
+194	1994	subject	action	47
+195	1995	subject	quip	56
+196	1996	subject	action	47
+197	1997	subject	punchline	31	short
+198	1998	subject	action	53
+199	1999	subject	quip	46
+200	2000	subject	action	35	short
